@@ -1,4 +1,6 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
+2.mp4 filter=lfs diff=lfs merge=lfs -text
+Images/2.MP4 filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.MP4 filter=lfs diff=lfs merge=lfs -text
